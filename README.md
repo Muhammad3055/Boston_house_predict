@@ -22,6 +22,13 @@ This project implements Linear Regression, Random Forest, and XGBoost **from scr
 
 ##  How to Run
 1. Clone the repo
-   ```
-   git clone https://github.com/yourusername/boston-house-price-prediction.git
-   cd boston-house-price-prediction```
+    ```git clone https://github.com/yourusername/boston-house-price-prediction.git ```
+
+   Install requirements:
+
+
+```pip install -r requirements.txt ```
+
+Run the model:
+
+```python boston_price_prediction.py ```
